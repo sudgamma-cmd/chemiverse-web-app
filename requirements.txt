@@ -1,0 +1,8 @@
+# ChemiVerse AI Core Dependencies
+streamlit>=1.30.0
+rdkit>=2023.9.1
+pubchempy>=1.0.4
+py3Dmol>=2.0.4
+reportlab>=4.0.0
+pandas>=2.0.0
+pillow>=10.0.0
